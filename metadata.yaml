@@ -1,0 +1,32 @@
+_repo: Her-own-way_74007
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thorne, Eglanton
+    alias: Charlton, Elizabeth Emily
+    birthdate: 1852
+    deathdate: 1907
+    gutenberg_agent_id: '56000'
+    url: http://www.gutenberg.org/2009/agents/56000
+description: ''
+gutenberg_issued: '2024-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74007'
+language: en
+pgterms:marc905: 20240626092414thorne
+pgterms:marc906: '1899'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Young women -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Self-reliance -- Juvenile fiction'
+- !lcsh 'Pride and vanity -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Her own way
+url: http://www.gutenberg.org/ebooks/74007
